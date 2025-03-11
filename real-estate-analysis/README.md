@@ -1,0 +1,3 @@
+This folder contains my project for the Barcelona Real Estate Analysis and price prediction where I used R to analyze 413 training records and test predictions on 200 additional Barcelona properties, applying linear regression techniques with transformed variables (e.g., squared property size) and zone-based dummy interactions.
+Ensured robust modeling by tracking p-values, R-squared, and residual plots, iterating through about 30 models to refine predictive accuracy.
+Finalized a model balancing performance and complexity, highlighting zone, property size, and bathrooms as crucial drivers of real estate prices.
